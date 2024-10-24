@@ -28,15 +28,17 @@ Copy code
 cd <project-directory>
 Install the necessary dependencies:
 
-Copy code
+```
 npm install
+```
+
 Run the test suite to ensure everything is functioning as expected:
 
-bash
-Copy code
+```
 npm test
+```
 Start the development server to view the application:
 
-sql
-Copy code
+```
 npm start
+```
